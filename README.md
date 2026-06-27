@@ -154,11 +154,6 @@ student-placement-analysis/
 ├── 📓 notebooks/
 │   └── placement_analysis.ipynb        # Jupyter Notebook (full analysis)
 │
-├── 📂 src/
-│   ├── preprocessing.py                # Data cleaning & encoding
-│   ├── visualization.py                # Charts and plots
-│   └── regression.py                   # Correlation & regression model
-│
 ├── 📂 outputs/
 │   ├── cgpa_distribution.png           # CGPA histogram
 │   ├── difficulty_stages.png           # Bar chart of difficulty stages
@@ -186,13 +181,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ### 3. Run the analysis
 ```bash
-# Option A: Run Jupyter Notebook
+Run Jupyter Notebook
 jupyter notebook notebooks/placement_analysis.ipynb
 
-# Option B: Run Python script directly
-python src/preprocessing.py
-python src/visualization.py
-python src/regression.py
 ```
 
 ---
