@@ -188,13 +188,6 @@ jupyter notebook notebooks/placement_analysis.ipynb
 
 ---
 
-## 👥 Team Members
-
-| Name | Roll No |
-|------|---------|
-| Bijin Varghese | 14 |
-| Shubham Fulzalke | 49 |
-| Vishnu Chaphe | 65 |
 
 **Course:** S.Y. B.Sc. (Data Science), Semester II  
 **Academic Year:** 2025–2026
@@ -212,5 +205,5 @@ jupyter notebook notebooks/placement_analysis.ipynb
 ---
 
 <p align="center">
-  Made with ❤️ by Bijin, Shubham & Vishnu &nbsp;|&nbsp; S.Y. B.Sc. Data Science 2025–26
+  Made by Vishnu &nbsp;|&nbsp; S.Y. B.Sc. Data Science 2025–26
 </p>
